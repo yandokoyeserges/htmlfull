@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d469f99c-7d7a-4ad8-a3f1-0fd5385324ce" name="Changes" comment="add a new line">
+    <list default="true" id="d469f99c-7d7a-4ad8-a3f1-0fd5385324ce" name="Changes" comment="&#10;a new file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,9 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2qR5qjW7z9ZZgbnPQVLHIK3WX6s" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.randomly.executor": "Run",
+    "Python.yt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
@@ -68,11 +71,28 @@
       <option name="project" value="LOCAL" />
       <updated>1734613130742</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add a new line">
+      <option name="closed" value="true" />
+      <created>1734627781726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734627781726</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&#10;a new file">
+      <option name="closed" value="true" />
+      <created>1734628729313</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734628729313</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add a new line" />
-    <option name="LAST_COMMIT_MESSAGE" value="add a new line" />
+    <MESSAGE value="&#10;a new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;a new file" />
   </component>
 </project>
